@@ -1,0 +1,36 @@
+To get code running
+create scanner file by entering "vim lexical.lex"
+
+click "i" to enter insert mode (editor mode)
+
+copy code from lexical.lex in the drive
+
+To save file click "esc" and enter ":w" and click enter and to leave the document press ctrl + z
+
+create the parser file by entering "vim parser.y"
+
+click "i" to enter insert mode (editor mode)
+
+copy parser.y code into it vim file
+
+To save file click "esc" and enter ":w" and click enter and to leave the document press ctrl + z
+
+
+
+create your make file by entering "vim makefile"
+
+click "i" to enter insert mode (editor mode)
+
+copy text from makefile in the drive
+
+To save file click "esc" and enter ":w" and click enter and to leave the document press ctrl + z
+
+
+To compile the code enter "make" into the terminal
+
+then run ./a.exe and the code will be running
+
+
+
+
+

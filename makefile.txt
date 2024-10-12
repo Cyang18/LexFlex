@@ -1,0 +1,4 @@
+All:
+	bison -t -d -v parser.y
+	flex lexical.lex > test
+	gcc lex.yy.c parser.tab.c
